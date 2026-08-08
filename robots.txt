@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dashingkhurram0334-prog.github.io/khurram-tech/sitemap.xml
